@@ -1,10 +1,6 @@
 ## 简介
 
-<<<<<<< HEAD
-该仓库是小刘同学学习qt所创建的，主要以下方面的东西
-=======
 该仓库是小刘同学学习qt所创建的，主要包括以下方面的东西
->>>>>>> fd08a1bf470794d8cd92bc74dadfd374eb824ccb
 
 - code源码:computer:
 - doc文档说明:page_facing_up:
